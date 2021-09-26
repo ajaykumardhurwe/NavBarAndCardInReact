@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/mywebsite/static/js/main.f718c4c9.chunk.js",
-    "main.js.map": "/mywebsite/static/js/main.f718c4c9.chunk.js.map",
-    "runtime-main.js": "/mywebsite/static/js/runtime-main.927a7c2c.js",
-    "runtime-main.js.map": "/mywebsite/static/js/runtime-main.927a7c2c.js.map",
-    "static/css/2.28bb0c3d.chunk.css": "/mywebsite/static/css/2.28bb0c3d.chunk.css",
-    "static/js/2.9d746909.chunk.js": "/mywebsite/static/js/2.9d746909.chunk.js",
-    "static/js/2.9d746909.chunk.js.map": "/mywebsite/static/js/2.9d746909.chunk.js.map",
-    "static/js/3.72ce674f.chunk.js": "/mywebsite/static/js/3.72ce674f.chunk.js",
-    "static/js/3.72ce674f.chunk.js.map": "/mywebsite/static/js/3.72ce674f.chunk.js.map",
-    "index.html": "/mywebsite/index.html",
-    "static/css/2.28bb0c3d.chunk.css.map": "/mywebsite/static/css/2.28bb0c3d.chunk.css.map",
-    "static/js/2.9d746909.chunk.js.LICENSE.txt": "/mywebsite/static/js/2.9d746909.chunk.js.LICENSE.txt"
+    "main.js": "/NavBarAndCardInReact/static/js/main.f718c4c9.chunk.js",
+    "main.js.map": "/NavBarAndCardInReact/static/js/main.f718c4c9.chunk.js.map",
+    "runtime-main.js": "/NavBarAndCardInReact/static/js/runtime-main.8e6e525b.js",
+    "runtime-main.js.map": "/NavBarAndCardInReact/static/js/runtime-main.8e6e525b.js.map",
+    "static/css/2.28bb0c3d.chunk.css": "/NavBarAndCardInReact/static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.9d746909.chunk.js": "/NavBarAndCardInReact/static/js/2.9d746909.chunk.js",
+    "static/js/2.9d746909.chunk.js.map": "/NavBarAndCardInReact/static/js/2.9d746909.chunk.js.map",
+    "static/js/3.72ce674f.chunk.js": "/NavBarAndCardInReact/static/js/3.72ce674f.chunk.js",
+    "static/js/3.72ce674f.chunk.js.map": "/NavBarAndCardInReact/static/js/3.72ce674f.chunk.js.map",
+    "index.html": "/NavBarAndCardInReact/index.html",
+    "static/css/2.28bb0c3d.chunk.css.map": "/NavBarAndCardInReact/static/css/2.28bb0c3d.chunk.css.map",
+    "static/js/2.9d746909.chunk.js.LICENSE.txt": "/NavBarAndCardInReact/static/js/2.9d746909.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.927a7c2c.js",
+    "static/js/runtime-main.8e6e525b.js",
     "static/css/2.28bb0c3d.chunk.css",
     "static/js/2.9d746909.chunk.js",
     "static/js/main.f718c4c9.chunk.js"
